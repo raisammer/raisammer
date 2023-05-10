@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Prashant rai
-- 👀 I’m interested in sensorsand automation 
-- 🌱 I’m currently learning deep learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 love to solve problems 
+- 🌱 I’m currently learning backend 
+- 💞️ Currently Interned at Concept Dash 
+- ✨ Frontend developer 
+- Hobbies : Badminton , Cricket 
 - 📫 How to reach me through my mail that is raisammer365@gmail.com
 
 <!---
